@@ -1,11 +1,15 @@
+import {ContagemComponet} from './components/index'
+import {PeopleApp} from './components/peopleIndex'
+
 import './App.css'
 
-function App() {
+const App = () => {
 
   return (
-    <div className="App">
-      
-    </div>
+  <div className="App">
+    <ContagemComponet />
+    <PeopleApp />
+  </div>
   )
 }
 
