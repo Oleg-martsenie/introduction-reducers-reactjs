@@ -13,5 +13,5 @@ a countdown and a mini area where you can add whatever thing you want and delete
 </p>
 
 <img src="./src/screenshots-projects/Capture d’écran 2022-03-11 093822.jpg">
-<img src="./src/screenshots-projectsCapture d’écran 2022-03-11 094008.jpg">
+<img src="./src/screenshots-projects/Capture d’écran 2022-03-11 094008.jpg">
 
