@@ -8,7 +8,7 @@ you can delete, order in alphabetical orders
 ## Made with
 
 <p>React js and using useReducer</p>
-<p>In this project, as you all can see, there'are 2 in one, the first one is:
+<p>In this project, as you all can see, there'are 2 products in one, the first one is:
 a countdown and a mini area where you can add whatever thing you want and delete as well as order 
 </p>
 
